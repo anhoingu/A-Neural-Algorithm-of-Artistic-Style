@@ -1,1 +1,2 @@
-# A-Neural-Algorithm-of-Artistic-Style
+# Neural Style Transfer (NST)
+**Neural Style Transfer (NST)** là một bài toán trong lĩnh vực thị giác máy tính, trong đó mục tiêu là tạo ra **một hình ảnh mới** bằng cách kết hợp **nội dung của một hình ảnh gốc** (content image) với **phong cách của một hình ảnh khác** (style image). Kết quả là hình ảnh đầu ra (output image) sẽ giữ lại cấu trúc và chi tiết của hình ảnh nội dung, đồng thời mang các đặc điểm về màu sắc, hoa văn, và kết cấu của hình ảnh phong cách.
